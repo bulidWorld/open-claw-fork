@@ -74,7 +74,6 @@ USER.md
 .tgz
 
 # local tooling
-.serena/
 
 # Agent credentials and memory (NEVER COMMIT)
 /memory/
@@ -84,3 +83,4 @@ local/
 
 # Local config (user-specific)
 config/
+.serena/
